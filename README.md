@@ -1,4 +1,4 @@
-# Resistors_0805_Library
+# Resistor_0805_Library
 This repository contains my own compiled Altium Designer library for some 0805_resistors designed by me with the right dimensions read from the Datasheets. These resistor Libraries is ready for use in Altium Designer.
 
 ### 3D_0805_Resistor
